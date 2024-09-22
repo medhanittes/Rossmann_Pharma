@@ -1,0 +1,6 @@
+2024-09-22 08:08:43,069 - INFO - Starting the analysis.
+2024-09-22 08:08:43,071 - ERROR - Error loading training data: [Errno 2] No such file or directory: 'path_to_your_training_file.csv'
+2024-09-22 08:08:43,073 - ERROR - Error loading store data: [Errno 2] No such file or directory: 'path_to_your_store_file.csv'
+2024-09-22 08:08:43,615 - INFO - Datasets merged successfully.
+2024-09-22 08:08:43,620 - INFO - Found 2642 stores with NA CompetitionDistance.
+2024-09-22 08:08:43,875 - INFO - Found 0 stores with valid CompetitionDistance.
